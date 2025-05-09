@@ -1,0 +1,7 @@
+plotly.express 
+pandas 
+numpy 
+streamlit 
+plotly.graph_objects 
+make_subplots
+pickle
